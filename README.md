@@ -4,12 +4,12 @@ An elegant  YouTube playlist downloader built with Python and [yt-dlp](https://g
 
 ## Features
 - 📥 Download entire playlists in best quality
-- ⚡ Asynchronous execution for responsiveness
 - 🎛️ CLI input for URL and save path
 
 ## Installation
 ```bash
-git clone https://github.com/yourname/yt-playlist-downloader.git
+git clone https://github.com/OleksandrBrusyltsev/YouTube_playlist_downloader.git
+pip install -r requirements.txt
 ```
 
 ## Usage
